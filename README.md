@@ -36,4 +36,4 @@ Forecasts enable logistics and travel industries to anticipate disruptions.
 Air quality monitoring supports health & safety decisions.
 
 **Screenshots / Demos**
-example: https://github.com/priyanka-shetty25/weather-forecast/blob/main/weather%20forecast.PNG
+example: [weather forecast.PNG](https://github.com/priyanka-shetty25/weather-forecast/blob/main/weather%20forecast.PNG)
