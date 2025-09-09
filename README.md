@@ -37,3 +37,5 @@ Air quality monitoring supports health & safety decisions.
 
 **Screenshots / Demos**
 example: [weather forecast.PNG](https://github.com/priyanka-shetty25/weather-forecast/blob/main/weather%20forecast.PNG)
+<img width="1344" height="758" alt="image" src="https://github.com/user-attachments/assets/87ded240-8567-442a-8b45-8627280562a4" />
+
