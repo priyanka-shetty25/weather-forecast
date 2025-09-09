@@ -1,10 +1,10 @@
-**Weather Forecast Dashboard – Real-Time Weather Insights with Power BI**
+🌦️**Weather Forecast Dashboard – Real-Time Weather Insights with Power BI**
 
-📝 **Short Description / Purpose**
+ **Short Description / Purpose**
 
 This interactive dashboard provides real-time and forecasted weather insights by consuming data from a live weather API. It helps users track temperature, humidity, air quality, and other weather parameters in a visually engaging and actionable way.
 
-⚙️ **Tech Stack**
+ **Tech Stack**
 
 1.Power BI – Data visualization & dashboard creation
 
@@ -16,13 +16,13 @@ This interactive dashboard provides real-time and forecasted weather insights by
 
 5.JSON – Data format from the API
 
-🌍 **Data Source**
+ **Data Source**
 
 Source: [OpenWeather API (or whichever API you used)](https://www.weatherapi.com/)
 
 Structure: JSON response containing fields like temperature, humidity, pressure, wind speed, air quality, and forecast data (hourly/daily).
 
-✨ **Features / Highlights**
+ **Features / Highlights**
 
 🔹 Business Problem
 
