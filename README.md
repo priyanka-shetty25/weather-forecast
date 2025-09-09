@@ -7,9 +7,13 @@ This interactive dashboard provides real-time and forecasted weather insights by
 ⚙️ **Tech Stack**
 
 1.Power BI – Data visualization & dashboard creation
+
 2.Power Query (M language) – Data cleaning & transformation
+
 3.DAX – Calculations and custom measures
+
 4.REST API (Weather API) – Data integration
+
 5.JSON – Data format from the API
 
 🌍 **Data Source**
