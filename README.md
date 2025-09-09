@@ -19,6 +19,7 @@ This interactive dashboard provides real-time and forecasted weather insights by
 🌍 **Data Source**
 
 Source: [OpenWeather API (or whichever API you used)](https://www.weatherapi.com/)
+
 Structure: JSON response containing fields like temperature, humidity, pressure, wind speed, air quality, and forecast data (hourly/daily).
 
 ✨ **Features / Highlights**
@@ -30,13 +31,18 @@ To provide real-time weather insights and forecast predictions that enable faste
 
 🔹 Key Visuals Walkthrough
 Current Weather Card → shows live temperature, humidity, and air quality index.
+
 Forecast Trends Line Chart → shows daily forecast for temperature & precipitation.
+
 Air Quality Gauge/Color Coding → indicates safe, moderate, or hazardous air quality.
+
 Interactive Filters → select by city to customize forecasts.
 
 🔹 Business Impact & Insights
 Real-time insights help with planning outdoor activities or business operations.
+
 Forecasts enable logistics and travel industries to anticipate disruptions.
+
 Air quality monitoring supports health & safety decisions.
 
 **Screenshots / Demos**
